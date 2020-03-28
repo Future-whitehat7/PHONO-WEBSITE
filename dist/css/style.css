@@ -175,7 +175,7 @@ justify-content: center;
 
 /* new css grid zone container */
 
-.section-d .container-zone {
+.section-d .gallery {
     /* using the grid system makes it more responsive */
     display: grid;
     grid-gap: 20px;
