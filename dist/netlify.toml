@@ -1,4 +1,4 @@
 [build]
     base = "PHONO-WEBSITE/"
-    publish = "PHONO-WEBSITE/dist"
+    publish = "PHONO-WEBSITE/build"
     command = "yarn build"
